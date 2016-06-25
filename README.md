@@ -9,7 +9,7 @@ git clone https://github.com/aseom/vim-notetaking.git
 ```
 
 ### Usage
-![usage](.github/usage.png)
+![usage](https://raw.githubusercontent.com/aseom/images/master/vim-notetaking-usage.png)
 
 파일 이름은 `.note`로 끝나야 합니다.
 
